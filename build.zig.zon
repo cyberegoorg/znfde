@@ -1,0 +1,14 @@
+.{
+    .name = .znfde,
+    .fingerprint = 0xdeaa03a53e34a0ca,
+    .version = "0.1.0",
+    .dependencies = .{},
+    .paths = .{
+        "includes",
+        "nativefiledialog",
+        "src",
+        "README.md",
+        "build.zig",
+        "build.zig.zon",
+    },
+}
