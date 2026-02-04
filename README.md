@@ -1,5 +1,7 @@
 # znfde v0.1.0 - NativeFileDialog extended bindings
 
+!!! Repo move to [codeberg](https://codeberg.org/cyberegoorg/znfde)
+
 Easy to use NFDe zig wraper.
 
 ## Getting started
